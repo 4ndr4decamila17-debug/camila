@@ -1,28 +1,16 @@
-h1{
+#paragrafo{
 
-color: blue;
+text-transform: uppercase;
+text-transform: uppercase;
+font-size: 3em;
+color: lightgray;
+font-family: Lucida Console;
+font-family: Lucida Console;
+text-shadow: 1px 1px 1px red;
 
-background-color: yellow;
-}
+text-decoration-line: underline;
+text-decoration-style: solid;
+text-decoration-color: blue;
+text-decoration-thickness: 0.2em;
 
-h2{
-color: red;
-
-background-color: gray;
-
-}
-
-h3{
-
-color: yellow;
-
-background-color: brown;
-
-}
-
-p{
-
-  color: gray;
-
-  background-color: magenta;
 }
